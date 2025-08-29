@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Joel  
 
 💻 **Cybersecurity Student**  
-🔒 Currently enrolled in **Pentesting Course (Solyd Offensive Security)**  
+🔒 Currently enrolled in **Pentesting Course ([Solyd Offensive Security](https://solyd.com.br))**  
 🐍 Main programming language: **Python**  
-🌍 From **Angola, Africa**  
+🌍 From **Angola, Africa**
+
 
 ---
 
