@@ -19,8 +19,8 @@
 <img src="https://skillicons.dev/icons?i=python" width="70"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=linux" width="70"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=bash" width="70"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="70"/>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="70"/> &nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="70"/>
 ---
 
 ## 📊 GitHub Stats  
