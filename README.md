@@ -31,10 +31,4 @@
 
 ---
 
-## 🌐 Connect with Me  
-📧 [Email](mailto:joelndala356@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/joel-ndala-a28606379/)
-
----
-
 ✨ *"Information security is not a destination, it's a journey."* ✨
