@@ -31,4 +31,4 @@
 
 ---
 
-✨ *"Information security is not a destination, it's a journey."* ✨
+✨ *Information security is not a destination, it's a journey.* ✨
