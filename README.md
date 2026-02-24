@@ -24,10 +24,5 @@
 <img src="https://skillicons.dev/icons?i=javascript" width="70"/> &nbsp;
 ---
 
-## 📊 GitHub Stats  
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeln356&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeln356&layout=compact&theme=radical)  
-
----
 
 ✨ *Information security is not a destination, it's a journey.* ✨
