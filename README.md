@@ -2,6 +2,7 @@
 
 💻 **Web developer & Pentester web**  
 🐍 Main programming language: **Python** & **JavaScrip**
+
 🌍 From **Angola, Africa**
 
 ---
