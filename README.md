@@ -27,4 +27,3 @@
 
 
 ✨ *Information security is not a destination, it's a journey.* ✨
-https://ia800501.us.archive.org/7/items/how-to-prove-it-a-structured-approach-daniel-j.-velleman/How%20to%20Prove%20It%20A%20Structured%20Approach%20%28Daniel%20J.%20Velleman%29.pdf
